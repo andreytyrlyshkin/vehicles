@@ -17,12 +17,6 @@ build/
 .vscode/
 .idea/
 
-# Data
-*.csv
-*.pickle
-*.pkl
-!sample_data/
-
 # OS
 .DS_Store
 Thumbs.db
