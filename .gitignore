@@ -1,0 +1,28 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+*.csv
+*.pickle
+*.pkl
+!sample_data/
+
+# OS
+.DS_Store
+Thumbs.db
